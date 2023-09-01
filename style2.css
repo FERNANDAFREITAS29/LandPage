@@ -1,0 +1,14 @@
+
+@import url('https://fonts.googleapis.com/css?family=Poppins:200,300,400,500,600,700,800,900&display=swap');
+
+.Product img{
+
+    .Product ul li a{
+        display: inline-block;
+        color: #eee5e5;
+        font-weight: 80;
+        margin-left: 20px;
+        text-decoration: none;
+    }
+    
+}
